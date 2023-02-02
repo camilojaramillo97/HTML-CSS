@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio de introduccion a HTML en OpenBootcamp </title>
+    </head>
+    <body>
+        <!--Este es mi primer comentario de 2 lineas
+        Aprendiendo a documentar mi codigo con OpenBootcamp-->
+
+        <div>
+            <ul>
+                <li> <a href="https://www.youtube.com/watch?v=mWpmqoeQIiw&ab_channel=LilSupa%27">Lil Supa' - Fe de Errata (Vídeo Oficial)</a></li>
+                <li> <a href="https://www.youtube.com/watch?v=sg5yIBr3E6A&ab_channel=LilSupa%27">LITTLE SUPA' - MISTA UANTEIK</a></li>
+                <li> <a href="https://www.youtube.com/watch?v=xjLoIQCBTGU&ab_channel=LilSupa%27">LITTLE SUPA' - VALÓRATE</a></li>
+
+            </ul>
+        </div>
+    </body>
+</html>
